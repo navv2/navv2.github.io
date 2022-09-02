@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "navv2.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "navv2.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
