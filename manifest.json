@@ -1,10 +1,10 @@
 {
   "background_color": "#ffffff",
   "display": "standalone",
-  "name": "navv2.github",
+  "name": "상우고 앱",
   "orientation": "any",
   "scope": "/",
-  "short_name": "navv2.github",
+  "short_name": "상우앱",
   "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
